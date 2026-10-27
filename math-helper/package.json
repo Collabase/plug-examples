@@ -1,0 +1,8 @@
+{
+  "name": "collabase-example-math-helper",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sum, average and round a list of numbers.",
+  "license": "MIT",
+  "main": "index.js"
+}

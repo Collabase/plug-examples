@@ -1,0 +1,8 @@
+{
+  "name": "collabase-example-http-with-config",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Call a configurable base URL with an API key.",
+  "license": "MIT",
+  "main": "index.js"
+}

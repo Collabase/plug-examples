@@ -1,0 +1,8 @@
+{
+  "name": "collabase-example-counter-store",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Count up a named counter in the flow store.",
+  "license": "MIT",
+  "main": "index.js"
+}

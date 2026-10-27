@@ -1,0 +1,8 @@
+{
+  "name": "collabase-example-polling-trigger",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Report new entries of a public JSON feed.",
+  "license": "MIT",
+  "main": "index.js"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "collabase-example-webhook-trigger",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Start a flow from an incoming webhook.",
+  "license": "MIT",
+  "main": "index.js"
+}

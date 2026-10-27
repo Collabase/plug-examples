@@ -1,0 +1,8 @@
+{
+  "name": "collabase-example-date-helper",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Format dates, add durations and compute differences.",
+  "license": "MIT",
+  "main": "index.js"
+}

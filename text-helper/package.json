@@ -1,0 +1,8 @@
+{
+  "name": "collabase-example-text-helper",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Slugify, trim and extract text.",
+  "license": "MIT",
+  "main": "index.js"
+}
